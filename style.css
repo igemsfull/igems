@@ -352,7 +352,7 @@ h1 {
     .header-items {
         justify-content: center;
     }
-    .h1 {
+    h1 {
         font-size: 32px;
         text-align: center;
     }
@@ -397,7 +397,7 @@ h1 {
         width: 320px;
         height: 180px;
     }
-    .h1 {
+    h1 {
         font-size: 25px;
     }
     .container-foot {
